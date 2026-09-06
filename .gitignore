@@ -1,0 +1,15 @@
+# Cache Python
+__pycache__/
+
+# Environnement virtuel Python
+.venv/
+venv/
+
+# Dossier propre à VSCODE
+.vscode/
+
+# Version d'alembics
+versions/
+
+# Certificats pour le HTTPS
+certificats/
